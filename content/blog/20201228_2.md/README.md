@@ -1,5 +1,5 @@
 ---
-title: read me
+title: 블로그 첫 수정에 대한 물음
 date: "2020-12-28T08:10:03.284Z"
 description: "습작 새벽기상의 시작과 기록 1"
 categories: [헬로 월드~~]
@@ -34,9 +34,10 @@ image:
 >>########################################################################################################################
 
 ## 5. 그러고나니, 업데이트 된 깃에는 PULL되어있지 않았기에 한번더 오류!
+``` 
 >> PS C:\Users\USER\201211\201211> git push <br>
 >> fatal: The current branch main has no upstream branch.<br>
->> To push the current branch and set the remote as upstream, u <br> <br>
+>> To push the current branch and set the remote as upstream, u <br>
 >>
 >>    git push --set-upstream origin main <br>
 >> fatal: : The term 'fatal:' is not recognized as the name of <br>
@@ -45,11 +46,12 @@ image:
 >> ncluded, verify that the path is correct and try again. <br>     
 >> At line:1 char:1 <br>
 >> + fatal: The current branch main has no upstream branch.   <br>
->> + "~~~~~" <br>
+>> + `~~~~~` <br>
 >>    + CategoryInfo          : ObjectNotFound: (fatal::String) [], CommandNotFoundException <br>
 >>    + FullyQualifiedErrorId : CommandNotFoundException       <br>
+```
 
-## 근데 사실 잘모르겠음. 그래서 SOURCETREE 다운받음.
+## 6. 근데 사실 잘모르겠음. 그래서 SOURCETREE 다운받음.
 + 내가 작업중인 파일을 드래그해서 가져다 놓으면 해당 파일을 소스트리가 읽는다. 
 
 + 그리고, 이렇게 내용을 수정이나 추가, 변경 후 좌측 세번째..버튼을 클릭하면 내가 COMMIT-PUSH 이후의 수정작업내용을 확인할 수 있다.
@@ -59,4 +61,4 @@ SOURCETREE에서 main or history를 확인하여 PUSH하면 내 블로그에 업
 
 
 추가 메시지. 
-인용주석?으로 달은 글자들 사이즈 변경하는 방법 알아보기
+- [ ] 인용주석?으로 달은 글자들 사이즈 변경하는 방법 알아보기
