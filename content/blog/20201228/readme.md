@@ -1,7 +1,7 @@
 ---
 title: 멘탈관리 1
 date: "2020-12-28T08:34:00.284Z"
-description: "여기는 설명란"
+description: "무례한 사람을 만날 때는 눈을 잘 들여다봐라"
 categories: [헬로 월드~~]
 comments: true
 image:
@@ -9,7 +9,7 @@ image:
   credit: thomas shellberg
   creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
 ---
-# 무례한 사람을 만날 때는 눈을 잘 들여다봐라
+**무례한 사람을 만날 때는 눈을 잘 들여다봐라**
 
 그런 사람의 소음을 듣는 것보다
 그런 사람의 눈만 잘 들여다봐라
